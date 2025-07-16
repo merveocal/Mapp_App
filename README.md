@@ -55,15 +55,15 @@ Bu proje, **Flutter** ile geliştirilmiş bir mobil **Coğrafi Bilgi Sistemi (GI
 ---
 
 
-## 📸 Uygulama Ekran Görüntüleri
+##  Uygulama Ekran Görüntüleri
 
 <div style="display: flex; overflow-x: auto;">
-  <img src="assets/image1.png" width="200" style="margin-right: 10px;" />
-  <img src="assets/image2.png" width="200" style="margin-right: 10px;" />
-  <img src="assets/image3.png" width="200" style="margin-right: 10px;" />
-  <img src="assets/image4.png" width="200" style="margin-right: 10px;" />
-  <img src="assets/image5.png" width="200" style="margin-right: 10px;" />
-  <img src="assets/image6.png" width="200" />
+  <img src="assets/image/image1.png" width="200" style="margin-right: 10px;" />
+  <img src="assets/image/image2.png" width="200" style="margin-right: 10px;" />
+  <img src="assets/image/image3.png" width="200" style="margin-right: 10px;" />
+  <img src="assets/image/image4.png" width="200" style="margin-right: 10px;" />
+  <img src="assets/image/image5.png" width="200" style="margin-right: 10px;" />
+  <img src="assets/image/image6.png" width="200" />
 </div>
 
 
